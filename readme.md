@@ -27,3 +27,7 @@
 7. Training Spiking Neural Networks Using Lessons From Deep Learning
 
    https://youtu.be/zldal7b7sJ4?si=3S8C1dRDlt2WNICP
+
+8. Some Spyx (JAX) info
+
+   https://www.youtube.com/live/gKNegntASLI?si=S5dLfR0wEskmCcVL
