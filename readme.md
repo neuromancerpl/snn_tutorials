@@ -23,3 +23,7 @@
 6. Open Neuromorphic
 
    https://www.youtube.com/@openneuromorphic/videos
+
+7. Training Spiking Neural Networks Using Lessons From Deep Learning
+
+   https://youtu.be/zldal7b7sJ4?si=3S8C1dRDlt2WNICP
