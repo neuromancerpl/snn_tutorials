@@ -1,13 +1,17 @@
 ## SNN tutorials list available on the internet (youtube etc...)
 
 1. Hands-On Session with snnTorch - Jason Eshraghian, University of California Santa Cruz 
-    https://youtu.be/aUjWRpisRRg?si=dez0j6sxKxFxH2Cd
 
-2. Tutorial on snnTorch: Jason Eshraghian ICONS 2021
-    https://youtu.be/O2-mT291ygg?si=hPgd4uNCujnZ_8jp
+   https://youtu.be/aUjWRpisRRg?si=dez0j6sxKxFxH2Cd
 
-3. Spiking Neural Network Modeling and an XOR Application by Tara Zamani 
-    https://youtu.be/mrv--UHW-iA?si=zX8uP4trMLhWTtA7
+3. Tutorial on snnTorch: Jason Eshraghian ICONS 2021
 
-4. An FPGA Implementation for Linear Spiking Neural Network Hardware Design by Tara Zamani
-    https://youtu.be/HTZDR453dZc?si=CckbrSTdmfV-_WUg
+   https://youtu.be/O2-mT291ygg?si=hPgd4uNCujnZ_8jp
+
+5. Spiking Neural Network Modeling and an XOR Application by Tara Zamani 
+
+   https://youtu.be/mrv--UHW-iA?si=zX8uP4trMLhWTtA7
+
+7. An FPGA Implementation for Linear Spiking Neural Network Hardware Design by Tara Zamani
+
+   https://youtu.be/HTZDR453dZc?si=CckbrSTdmfV-_WUg
